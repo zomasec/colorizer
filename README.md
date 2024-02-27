@@ -2,7 +2,7 @@
 
 # Colorizer v1.0.0
 
-Colorizer is a Go package that provides utilities for colorizing text output in terminals using ANSI colors.
+Colorizer is a Go package that provides utilities for colorizing text output in terminals using ANSI colors, Developed by Hazem El-Sayed (ZomaSec).
 
 ## Installation
 
