@@ -1,3 +1,5 @@
+[![Go Reference](https://pkg.go.dev/badge/github.com/zomasec/colorizer.svg)](https://pkg.go.dev/github.com/zomasec/colorizer) [![Go Report Card](https://goreportcard.com/badge/github.com/zomasec/colorizer)](https://goreportcard.com/report/github.com/zomasec/colorizer)
+
 # Colorizer v1.0.0
 
 Colorizer is a Go package that provides utilities for colorizing text output in terminals using ANSI colors.
