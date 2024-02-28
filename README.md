@@ -85,7 +85,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - @ZomaSec
 
 
-This README provides installation instructions, usage examples, information about available colors, usage of custom colors, adjusting intensity, license information, and author credits.
 
 
 
